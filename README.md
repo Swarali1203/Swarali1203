@@ -1,5 +1,7 @@
+# 💫 About Me:
+Hi, i'm  Swarali Kshirsagar <br>I'm passionate about coding, learning new technologies, and building real-world projects.<br>Currently exploring web development.<br>I enjoy collaborating on open-source projects and improving my skills every day.<br>Let's connect and build something great together!
 
-Hi, My Name is Swarali 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Swarali_leeeee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Swarali) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Swarali Anil Kshirsagar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:swaralikshirsagar8875@gmail.com) 
 
@@ -13,19 +15,4 @@ Hi, My Name is Swarali
 ---
 [![](https://visitcount.itsvg.in/api?id=Swarali1203&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**Swarali1203/Swarali1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
